@@ -1,0 +1,4 @@
+[ashuffle-git]
+source = "git"
+git = "https://github.com/joshkunz/ashuffle.git"
+prefix = "v"
